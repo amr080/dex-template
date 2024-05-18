@@ -1,5 +1,7 @@
 # X FINANCIAL TECHNOLOGIES
 
+NOTICE: needs updated as of 5/17/2024
+
 ### Implementation
 1. Fork repo
 2. Create a [Vercal](https://vercel.com/) account
